@@ -1,0 +1,11 @@
+[
+  {"url":"cepillando cabello/cepillando cabello.mp3","type":"audio","bank":"cepillado cabello","n":0},
+  {"url":"limpieza/limpieza.mp3","type":"audio","bank":"limpieza","n":0},
+  {"url":"lluvia/lluvia.mp3","type":"audio","bank":"lluvia","n":0},
+  {"url":"metro cdmx/metro cdmx.mp3","type":"audio","bank":"metro cdmx","n":0},
+  {"url":"papel/papel.mp3","type":"audio","bank":"papel","n":0},
+  {"url":"pasos/pasos.mp3","type":"audio","bank":"pasos","n":0},
+  {"url":"sonido de ranas/SONIDO DE RANA.mp3","type":"audio","bank":"sonido de rana","n":0},
+   {"url":"sonido de tianguis/sonido de tianguis.mp3","type":"audio","bank":"sonido de tianguis","n":0},
+  {"url":"tortilleria/tortilleria.mp3","type":"audio","bank":"tortilleria","n":0}
+]
